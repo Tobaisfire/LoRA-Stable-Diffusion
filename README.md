@@ -19,7 +19,7 @@ Dataset structure :
 
 csv should contain img name and image caption fo each images.
 ```
-*For more details on dataset goto :  https://huggingface.co/blog/lora
+**For more details on dataset goto :  https://huggingface.co/blog/lora**
 
 # Training Stable Diffusion using LoRA
 
